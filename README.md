@@ -13,6 +13,6 @@ Snake Game AI (neuroevolution genetic algorithm) using p5.js
 * [Toy Neural Network](https://github.com/CodingTrain/Toy-Neural-Network-JS)
 
 ***
-Feel free to contact me if you have any questions, feature idea or component request.  
+Feel free to contact me if you have any questions.
 Twitter: [@deplodog](https://twitter.com/deplodog)	・
 Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com)
